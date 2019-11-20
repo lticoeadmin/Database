@@ -69,3 +69,13 @@ CREATE TABLE Frooti
 -- Query End Area
 
 --===================================================================
+--Commit ID  f1ce4cf8d161d407f8c15e1f17e84217d13cabc8 On 20/November/2019 At 11:58:40 AM
+-- Query Start Area"
+CREATE TABLE Salad
+(	
+"Item_Name" VARCHAR2(255 BYTE), 
+"Item_Code" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
