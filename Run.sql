@@ -3,10 +3,10 @@ whenever sqlerror exit sql.sqlcode;
 spool "C:\Program Files (x86)\Jenkins\workspace\Infa-DB\log.txt";
 -- Place your query in the between the query area !!
 -- Query Start Area"
-CREATE TABLE "INFA_TGT"."LTI_TGT" 
+CREATE TABLE "ABC" 
 (	
-"FIRST_NAME" VARCHAR2(255 BYTE), 
-"LAST_NAME" VARCHAR2(255 BYTE)
+"AAAA" VARCHAR2(255 BYTE), 
+"BBBB" VARCHAR2(255 BYTE)
 );
 -- Query End Area
 spool off;

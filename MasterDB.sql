@@ -9,3 +9,13 @@ CREATE TABLE "INFA_TGT"."LTI_TGT"
 -- Query End Area
 
 --===================================================================
+--Commit ID  7affee699f19dd0562bae80c805d9c7f0626373a On 22/November/2019 At 12:48:19 PM
+-- Query Start Area"
+CREATE TABLE "ABC" 
+(	
+"AAAA" VARCHAR2(255 BYTE), 
+"BBBB" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
