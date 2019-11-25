@@ -19,3 +19,13 @@ CREATE TABLE "ABC"
 -- Query End Area
 
 --===================================================================
+--Commit ID  bc5f7f6e1024eeb7e45e57e9723bbc3cb6b09528 On 25/November/2019 At 11:42:38 AM
+-- Query Start Area"
+CREATE TABLE Vehicle_Info
+(	
+"Model" VARCHAR2(255 BYTE), 
+"Manufacture" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
