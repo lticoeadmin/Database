@@ -29,3 +29,13 @@ CREATE TABLE Vehicle_Info
 -- Query End Area
 
 --===================================================================
+--Commit ID  4de3279ea1ef3054daf56ab1fa7e9bc2dc9c83f2 On 25/November/2019 At 11:50:41 AM
+-- Query Start Area"
+CREATE TABLE Eatery
+(	
+"Item_Name" VARCHAR2(255 BYTE), 
+"Item_Code" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
