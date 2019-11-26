@@ -39,3 +39,13 @@ CREATE TABLE Eatery
 -- Query End Area
 
 --===================================================================
+--Commit ID  0ec9220ea3a877b256b08170f5f56a40d22defa4 On 26/November/2019 At 11:37:14 AM
+-- Query Start Area"
+CREATE TABLE Pizza
+(	
+"Item_Name" VARCHAR2(255 BYTE), 
+"Item_Code" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
