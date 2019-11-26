@@ -49,3 +49,13 @@ CREATE TABLE Pizza
 -- Query End Area
 
 --===================================================================
+--Commit ID  8a5d272278eafbf93cdad677500ede7df79cc44d On 26/November/2019 At 12:18:13 PM
+-- Query Start Area"
+CREATE TABLE Burger
+(	
+"Item_Name" VARCHAR2(255 BYTE), 
+"Item_Code" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
