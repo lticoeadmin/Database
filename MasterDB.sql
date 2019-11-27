@@ -89,3 +89,13 @@ CREATE TABLE Mango
 -- Query End Area
 
 --===================================================================
+--Commit ID  fe28eaaf9271b413850938a5fd59d96d28a5d749 On 27/November/2019 At 03:18:40 PM
+-- Query Start Area"
+CREATE TABLE Vehicle_Company 
+(	
+"Item_Name" VARCHAR2(255 BYTE), 
+"Item_Code" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
