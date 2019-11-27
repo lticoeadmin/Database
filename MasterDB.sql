@@ -59,3 +59,13 @@ CREATE TABLE Burger
 -- Query End Area
 
 --===================================================================
+--Commit ID  31362e7c08152d4099f779c061e0300766d706f4 On 27/November/2019 At 03:17:15 PM
+-- Query Start Area"
+CREATE TABLE Frooti
+(	
+"Item_Name" VARCHAR2(255 BYTE), 
+"Item_Code" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
