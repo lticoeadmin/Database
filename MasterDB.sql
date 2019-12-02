@@ -79,3 +79,13 @@ CREATE TABLE Salad
 -- Query End Area
 
 --===================================================================
+--Commit ID  c3defa2372be4c14bce8e3540eda506709628646 On 02/December/2019 At 11:06:55 AM
+-- Query Start Area"
+CREATE TABLE Mango
+(	
+"Item_Name" VARCHAR2(255 BYTE), 
+"Item_Code" VARCHAR2(255 BYTE)
+);
+-- Query End Area
+
+--===================================================================
