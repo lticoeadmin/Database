@@ -111,3 +111,9 @@ ALTER TABLE infa_tgt.lti_tgt add city varchar2(255);
 -- Query End Area
 
 --===================================================================
+--Commit ID  5cbaec1687daf912b0db4935ab492b90a6cab3de On 02/March/2020 At 03:36:38 PM
+-- Query Start Area"
+ALTER TABLE infa_tgt.lti_tgt add state varchar2(255);
+-- Query End Area
+
+--===================================================================
