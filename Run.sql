@@ -10,6 +10,7 @@ emp_name varchar2(255),
 gender varchar2(10),
 dob date
 );
+
 alter table dept add emp_id int;
 -- Query End Area
 spool off;
