@@ -6,7 +6,8 @@ spool "C:\Program Files (x86)\Jenkins\workspace\Infa-DB-Incremental\log.txt";
 create table infa_tgt.dept
 (
 dept_id int,
-dept_name varchar2(255)
+dept_name varchar2(255),
+dept_desc varchar2(255)
 );
 -- Query End Area
 spool off;
