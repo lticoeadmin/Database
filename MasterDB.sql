@@ -129,3 +129,15 @@ dept_type varchar2(10)
 -- Query End Area
 
 --===================================================================
+--Commit ID  d5eaab4d17255d46d26e37a88858426c2a998b31 On 02/March/2020 At 05:59:38 PM
+-- Query Start Area"
+create table infa_tgt.employee
+(
+emp_id int,
+emp_name varchar2(255),
+gender varchar2(10),
+dob date
+);
+-- Query End Area
+
+--===================================================================
