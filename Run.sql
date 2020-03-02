@@ -3,12 +3,13 @@ whenever sqlerror exit sql.sqlcode;
 spool "C:\Program Files (x86)\Jenkins\workspace\Infa-DB-Incremental\log.txt";
 -- Place your query in the between the query area !!
 -- Query Start Area"
-create table infa_tgt.dept
+create table infa_tgt.employee
 (
-dept_id int,
-dept_name varchar2(255),
-dept_desc varchar2(255),
-dept_type varchar2(10)
+emp_id int,
+emp_name varchar2(255),
+gender varchar2(10),
+dob date
 );
+alter table dept add emp_id int;
 -- Query End Area
 spool off;
