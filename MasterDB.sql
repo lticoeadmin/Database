@@ -105,3 +105,9 @@ ALTER TABLE infa_tgt.lti_tgt add gender varchar2(255);
 -- Query End Area
 
 --===================================================================
+--Commit ID  dd29c04f3639fb521c1b1d65d993b7a81ca3f418 On 02/March/2020 At 03:06:18 PM
+-- Query Start Area"
+ALTER TABLE infa_tgt.lti_tgt add city varchar2(255);
+-- Query End Area
+
+--===================================================================
