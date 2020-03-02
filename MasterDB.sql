@@ -138,3 +138,15 @@ dept_desc varchar2(255)
 -- Query End Area
 
 --===================================================================
+--Commit ID  03f2fa70ee110068a950997c141fb3567f00b82d On 02/March/2020 At 05:22:11 PM
+-- Query Start Area"
+create table infa_tgt.dept
+(
+dept_id int,
+dept_name varchar2(255),
+dept_desc varchar2(255),
+dept_type varchar2(10)
+);
+-- Query End Area
+
+--===================================================================
