@@ -99,3 +99,9 @@ CREATE TABLE Vehicle_Company
 -- Query End Area
 
 --===================================================================
+--Commit ID  67b9c3aa156ae73f9ec987dbd0ab7163aeeb8f27 On 02/March/2020 At 01:04:41 PM
+-- Query Start Area"
+ALTER TABLE infa_tgt.lti_tgt add gender varchar2(255);
+-- Query End Area
+
+--===================================================================
