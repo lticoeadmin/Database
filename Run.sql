@@ -7,7 +7,8 @@ create table infa_tgt.dept
 (
 dept_id int,
 dept_name varchar2(255),
-dept_desc varchar2(255)
+dept_desc varchar2(255),
+dept_type varchar2(10)
 );
 -- Query End Area
 spool off;
