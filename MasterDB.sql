@@ -117,3 +117,13 @@ ALTER TABLE infa_tgt.lti_tgt add state varchar2(255);
 -- Query End Area
 
 --===================================================================
+--Commit ID  d915c23e5034ceb69961a4466c27797bca0033f8 On 02/March/2020 At 04:37:11 PM
+-- Query Start Area"
+create table infa_tgt.dept
+(
+dept_id int,
+dept_name varchar2(255)
+);
+-- Query End Area
+
+--===================================================================
