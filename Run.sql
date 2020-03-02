@@ -6,7 +6,8 @@ spool "C:\Program Files (x86)\Jenkins\workspace\Infa-DB-Incremental\log.txt";
 create table infa_tgt.employee
 (
 emp_id int,
-emp_name varchar2(255),
+emp_firstname varchar2(255),
+emp_lastname varchar2(255),
 gender varchar2(10),
 dob date
 );
