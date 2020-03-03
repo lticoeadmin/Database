@@ -149,3 +149,10 @@ alter table infa_tgt.employee add updated_date date;
 -- Query End Area
 
 --===================================================================
+--Commit ID  5631f8d9558e5267443dde55ce8bfacc11b18175 On 03/March/2020 At 02:37:17 PM
+-- Query Start Area"
+alter table infa_tgt.employee add created_user varchar2(255);
+alter table infa_tgt.employee add updated_user varchar2(255);
+-- Query End Area
+
+--===================================================================
