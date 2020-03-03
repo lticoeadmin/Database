@@ -156,3 +156,10 @@ alter table infa_tgt.employee add updated_user varchar2(255);
 -- Query End Area
 
 --===================================================================
+--Commit ID  721f9dfd4c9c6c075a07ce42d6961b67424bd868 On 03/March/2020 At 07:54:09 PM
+-- Query Start Area"
+alter table infa_tgt.employee drop COLUMN created_user;
+alter table infa_tgt.employee drop COLUMN updated_user;
+-- Query End Area
+
+--===================================================================
