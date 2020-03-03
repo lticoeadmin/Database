@@ -142,13 +142,6 @@ dob date
 -- Query End Area
 
 --===================================================================
---Commit ID  d4d8178c11020cb6159c8e4e83b7e3ceb341ad2f On 03/March/2020 At 10:44:36 AM
--- Query Start Area"
-alter table infa_tgt.employee add created_date date;
-alter table infa_tgt.employee add updated_date date;
--- Query End Area
-
---===================================================================
 --Commit ID  5631f8d9558e5267443dde55ce8bfacc11b18175 On 03/March/2020 At 02:37:17 PM
 -- Query Start Area"
 alter table infa_tgt.employee add created_user varchar2(255);
